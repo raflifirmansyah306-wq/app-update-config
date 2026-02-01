@@ -1,7 +1,6 @@
 {
+  "maintenance": true,
   "version": "1.0.1",
-  "versionCode": 2,
-  "changelog": "Perbaikan bug dan peningkatan performa",
-  "downloadUrl": "https://github.com/USERNAME/REPO/releases/download/v1.0.1/app-release.apk",
-  "sha256": "24b9edfbf5abed59e8f50e2a1bcc10a97822a34d6d759b48af65cd6be8267c29"
+  "message": "Update versi terbaru tersedia. Silakan download dan install.",
+  "download_url": "https://github.com/raflifirmansyah306-wq/app-update-config/releases/download/v1.0.1/app-release.apk"
 }
